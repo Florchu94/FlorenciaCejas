@@ -8,7 +8,7 @@ La estructura de tabulación (indentación) en HTML no afecta directamente cómo
 
 - Para ti (y developers): Una buena indentación hace el código más legible y mantenible.
 
-- Excepciones menores: Dentro de elementos como <pre>, los espacios y tabs sí se respetan.
+- Excepciones menores: Dentro de elementos como `<pre>`, los espacios y tabs sí se respetan.
 
 Ejemplo:
 
@@ -25,20 +25,20 @@ Ejemplo:
 
 El navegador los renderiza *idéntico*.
 
-##  Los saltos de línea se hacen con <br>? o hay algún otro método?
+## 📌  Los saltos de línea se hacen con `<br>`? o hay algún otro método?
 
 Sí, en HTML los saltos de línea se hacen con <br>, pero hay otros métodos dependiendo del contexto.
 
 Usos comunes para saltos de línea en HTML:
 
-- <br> (line break): Para insertar un salto de línea dentro de un mismo párrafo o bloque de texto sin cortar el flujo del contenido.
+- `<br>` (line break): Para insertar un salto de línea dentro de un mismo párrafo o bloque de texto sin cortar el flujo del contenido.
 
-- <p> (paragraph): Se usa para separar bloques de texto. Cada <p> crea un salto de línea automático y un margen arriba y abajo.
+- `<p>` (paragraph): Se usa para separar bloques de texto. Cada <p> crea un salto de línea automático y un margen arriba y abajo.
 
-- CSS con margin o padding: Puedes espaciar elementos usando CSS sin necesidad de usar <br> (que todavia no vimos)
+- CSS con margin o padding: Puedes espaciar elementos usando CSS sin necesidad de usar `<br>` (que todavia no vimos)
 
-### ❌ Cuándo evitar <br>:
+❌ Cuándo evitar `<br>`:
 
-- No se recomienda usar muchos <br> seguidos para crear espacios (mejor usar CSS).
+- No se recomienda usar muchos `<br>` seguidos para crear espacios (mejor usar CSS).
 
-- En estructuras más complejas o diseño responsivo, <br> puede romper el flujo.
+- En estructuras más complejas o diseño responsivo, `<br>` puede romper el flujo.
