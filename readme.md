@@ -17,7 +17,7 @@ Durante el curso se usará **Visual Studio Code** como editor de código pero po
 
 | Fecha       | Día       | Clase Nº | Tema                                                                                     | Entregas / Tareas                                           |
 |-------------|-----------|----------|------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| 31/03/2025  | Lunes     | Clase 1  | **Módulo 1** Introducción al desarrollo web, HTML básico, estructura y etiquetas                     | Práctica con etiquetas
+| 31/03/2025  | Lunes     | [Clase 1](https://drive.google.com/file/d/19IzF-LuRZRZnjd0be2VpBtE0bo6l55Oz/view)  | **Comienzo Módulo ** Introducción al desarrollo web, HTML básico, estructura y etiquetas                     | Práctica con etiquetas
 | 02/04/2025  | ~~Miércoles~~ | -        | Feriado: Día de Malvinas Argentinas 🇦🇷                                               | Sin clase                                              |
 | 07/04/2025  | Lunes     | Clase 2  | Listas, tablas, formularios, enlaces                                                     |  Sketch del sitio                |
 | 09/04/2025  | Miércoles | Clase 3  | Etiquetas multimedia, introducción a CSS, sintaxis, selectores                          | Avanzar con el index del sitio                  |
