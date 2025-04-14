@@ -1,4 +1,4 @@
-## Curso de Frontend 2025 - Ingenias +
+l## Curso de Frontend 2025 - Ingenias +
 
 ¡Bienvenidas! 👋 Mi nombre es Lisa y este repositorio te va a estar acompañando en toda la cursada, contiene las consultas semanales de las Alumnas del de Curso de Frontend y fechas importantes.
 
@@ -30,7 +30,7 @@ Durante el curso se usará **Visual Studio Code** como editor de código pero po
 | 05/05/2025  | Lunes     | Clase 10 | GIT y terminal: comandos básicos, repositorios locales                                   | Crear repositorio, avanzar con el maquetado completo     **📝Primera Pre-entregaHTML + CSS en una semana (12/05)**    |
 | 07/05/2025  | Miércoles | Clase 11 | GitHub y GitHub Pages, publicación del proyecto                                          | Subir avances a GitHub Pages                                |
 | 12/05/2025  | Lunes     | Clase 12 | Repaso general, servidores, presentación del proyecto, recomendaciones finales           | **✅ Tarea final: Entrega del proyecto básico de las duplas** |
-| **14/05/2025** | **Lunes** | Clase 13        | **Comienzo Módulo 2**                                               |                                            |
+| **14/05/2025** | **Miércoles** | Clase 13        | **Comienzo Módulo 2**                                               |                                            |
 
 
 ## 🔸 Enlace al Curso
