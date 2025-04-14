@@ -1,6 +1,6 @@
 ## Curso de Frontend 2025 - Ingenias +
 
-¡Bienvenidas! 👋 Este repositorio contiene las consultas semanales de las Alumnas del de Curso de Frontend.
+¡Bienvenidas! 👋 Mi nombre es Lisa y este repositorio te va a estar acompañando en toda la cursada, contiene las consultas semanales de las Alumnas del de Curso de Frontend y fechas importantes.
 
 ## 🔸 Herramientas
 
