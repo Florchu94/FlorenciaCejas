@@ -1,4 +1,4 @@
-l## Curso de Frontend 2025 - Ingenias +
+## Curso de Frontend 2025 - Ingenias + YPF
 
 ¡Bienvenidas! 👋 Mi nombre es Lisa y este repositorio te va a estar acompañando en toda la cursada, contiene las consultas semanales de las Alumnas del de Curso de Frontend y fechas importantes.
 
@@ -32,7 +32,17 @@ Durante el curso se usará **Visual Studio Code** como editor de código pero po
 | 12/05/2025  | Lunes     | Clase 12 | Repaso general, servidores, entrega del proyecto, recomendaciones finales           | **✅ Tarea final: Entrega del proyecto básico de las duplas** |
 | **14/05/2025** | **Miércoles** | Clase 13        | **Comienzo Módulo 2**                                               |                                            |
 
+---
 
 ## 🔸 Enlace al Curso
 
 El curso se encuentra en el campus de YPF, haz clic en este enlace: [CampusYPF](https://campus.educalabs.org)
+
+---
+
+Nos vamos a ir cruzando a lo largo del curso, pero si llegaste hasta acá, ya estás un paso adelante.  
+Este espacio está armado con mucho cuidado para que tengas una guía clara, accesible y siempre a mano.
+
+**Nos vemos en código.**
+
+**Lisa** – *tu copilota dev 🚀*
