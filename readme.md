@@ -2,7 +2,7 @@
 
 ![Curso](https://img.shields.io/badge/Frontend-2025-blue)
 ![Modalidad](https://img.shields.io/badge/Modalidad-Online-lightgrey)
-![Tutora](https://img.shields.io/badge/Tutora-Lisa-purple)
+![CopilotaDev](https://img.shields.io/badge/CopilotaDev-Lisa-purple)
 ![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
 ---
