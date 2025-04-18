@@ -67,7 +67,7 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 El curso está alojado en el campus de YPF.  
 Podés ingresar desde este link:
 
-👉 [Campus YPF]([https://campus.ypf.com](https://campus.educalabs.org/) 
+👉 [Campus YPF](https://campus.ypf.com)
 
 ---
 
