@@ -1,12 +1,40 @@
-## Curso de Frontend 2025 - Ingenias + YPF
+# Curso de Frontend 2025 - Ingenias + YPF
 
-¡Bienvenidas! 👋 Mi nombre es Lisa y este repositorio te va a estar acompañando en toda la cursada, contiene las consultas semanales de las Alumnas del de Curso de Frontend y fechas importantes.
+![Curso](https://img.shields.io/badge/Frontend-2025-blue)
+![Modalidad](https://img.shields.io/badge/Modalidad-Online-lightgrey)
+![Tutora](https://img.shields.io/badge/Tutora-Lisa-purple)
+![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
-## 🔸 Herramientas
+---
 
-Durante el curso se usará **Visual Studio Code** como editor de código pero podés trabajar con el editor de código o IDE que quieras. Las clases son explicadas con Visual Studio Code y con el sistema operativo **Windows**.
+¡Bienvenidas! 👋  
 
-# 🗓️ Calendario Módulo 1: HTML y CSS (12 clases)
+Soy Lisa, y este repositorio está pensado para acompañarte durante toda la cursada del Curso de Frontend 2025.  
+
+Acá vas a encontrar:
+
+✨ Consultas semanales de las alumnas  
+📌 Fechas importantes y entregas  
+📚 Recursos clave para no perderte nada  
+
+Todo armado con mucho cuidado para que tengas una guía clara, accesible y actualizada.
+
+
+## 🛠️ Herramientas
+
+Durante las clases usamos:
+
+- **Visual Studio Code** como editor principal  
+- **Windows** como sistema operativo base  
+
+Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas cómoda y puedas enfocarte en aprender.
+
+---
+## 📅 Cronograma
+
+El cronograma con fechas de clases, entregas y temas se irá actualizando semana a semana.
+
+#### 🗓️ Calendario Módulo 1: HTML y CSS (12 clases)
 
 **Inicio:** Lunes 31/03/2025  
 **Clases:** Lunes y miércoles  
@@ -34,14 +62,21 @@ Durante el curso se usará **Visual Studio Code** como editor de código pero po
 
 ---
 
-## 🔸 Enlace al Curso
+## 🔗 Enlace al Campus
 
-El curso se encuentra en el campus de YPF, haz clic en este enlace: [CampusYPF](https://campus.educalabs.org)
+El curso está alojado en el campus de YPF.  
+Podés ingresar desde este link:
+
+👉 [Campus YPF]([https://campus.ypf.com](https://campus.educalabs.org/) 
 
 ---
 
-Nos vamos a ir cruzando a lo largo del curso, pero si llegaste hasta acá, ya estás un paso adelante.  
-Este espacio está armado con mucho cuidado para que tengas una guía clara, accesible y siempre a mano.
+## 🤝 Comunidad
+
+No estás sola en este camino. Sumate al grupo de WhatsApp donde compartimos novedades, consultas y buena vibra ✨
+
+---
+Nos vamos a cruzar muchas veces a lo largo del curso, pero este GitHub va a ser uno de los espacios más importante para tu base de operaciones.
 
 **Nos vemos en código.**
 
