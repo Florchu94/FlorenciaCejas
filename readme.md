@@ -57,7 +57,7 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 30/04/2025  | Miércoles | Clase 9  | Bootstrap: instalación, grillas, componentes                                             | **Espacio para compartir [Entregas Intermedias](https://campus.educalabs.org/pluginfile.php/415302/mod_resource/content/1/PPT%20Clase%209-Bootstrap%20-%20frontend%202025.pptx.pdf)**                         |
 | 05/05/2025  | Lunes     | Clase 10 | GIT y terminal: comandos básicos, repositorios locales                                   | Crear repositorio, avanzar con el maquetado completo     **📝Pre Entrega de HTML + CSS en una semana (12/05)**    |
 | 07/05/2025  | Miércoles | Clase 11 | GitHub y GitHub Pages, publicación del proyecto                                          | Subir avances a GitHub Pages                                |
-| 12/05/2025  | Lunes     | Clase 12 | Repaso general, se da indicaciones de Entrega Final         | **🟩 Pre Entrega: Tiene que estar subido tu proyecto de 2 páginas a GitHub. Hasta las 18h hay tiempo** |
+| 12/05/2025  | Lunes     | Clase 12 | Repaso general, se da indicaciones de la próxima Pre-Entrega          | **🟩 Pre Entrega: Tiene que estar subido tu proyecto de 2 páginas a GitHub. Hasta las 18h hay tiempo** |
 | **14/05/2025** | **Miércoles** | Clase 13        | **Comienzo Módulo 2**                                               |                                            |
 
 ---
