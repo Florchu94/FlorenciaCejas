@@ -72,8 +72,7 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 21/05/2025  | Miércoles |Clase 15  | Operadores en JS                                                                         |      Pre - Entrega Final HTML - CSS                         |
 | 26/05/2025  | Lunes     |Clase 16  | Condicionales                                                                            |                                                             |
 | 28/05/2025  | Miércoles |Clase 17  | Funciones                                                                                |                                                             |
-| 02/06/2025  | Lunes     |Clase 18  | Node y sistemas de módulos                                                              |    Pre -Entrega                                           
-
+| 02/06/2025  | Lunes     |Clase 18  | Node y sistemas de módulos                                                               |    Pre -Entrega Java Script                                  |
 
 ## 🔗 Enlace al Campus
 
