@@ -58,9 +58,22 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 05/05/2025  | Lunes     | Clase 10 | GIT y terminal: comandos básicos, repositorios locales                                   | Crear repositorio, avanzar con el maquetado completo     **📝Pre Entrega de HTML + CSS en una semana (12/05)**    |
 | 07/05/2025  | Miércoles | Clase 11 | GitHub y GitHub Pages, publicación del proyecto                                          | Subir avances a GitHub Pages                                |
 | 12/05/2025  | Lunes     | Clase 12 | Repaso general, se da indicaciones de la próxima Pre-Entrega          | **🟩 Pre Entrega: Tiene que estar subido tu proyecto de 2 páginas a GitHub. Hasta las 18h hay tiempo** |
-| **14/05/2025** | **Miércoles** | Clase 13        | **Comienzo Módulo 2**                                               |                                            |
 
 ---
+#### 🗓️ Calendario Módulo 2: Java Script
+
+**Inicio:** Miércoles 15/05/2025  
+**Clases:** Lunes y miércoles 
+
+| Fecha       | Día       | Clase Nº | Tema                                                                                     | Entregas / Tareas                                           |
+|-------------|-----------|----------|------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| 14/05/2025  | Miércoles |Clase 13  | Introducción:    Entorno de trabajo y lógica                                             |                                                             |
+| 19/05/2025  | Lunes     |Clase 14  | JS: Sintaxis y tipos de datos                                                            |                                                             |
+| 21/05/2025  | Miércoles |Clase 15  | Operadores en JS                                                                         |      Pre - Entrega Final HTML - CSS                         |
+| 26/05/2025  | Lunes     |Clase 16  | Condicionales                                                                            |                                                             |
+| 28/05/2025  | Miércoles |Clase 17  | Funciones                                                                                |                                                             |
+| 02/06/2025  | Lunes     |Clase 18  | Node y sistemas de módulos                                                              |    Pre -Entrega                                           
+
 
 ## 🔗 Enlace al Campus
 
