@@ -1,4 +1,4 @@
-# 📌 Mini Entrega 3 – Individual
+# 📌 Mini Pre Entrega 2 – Individual
 
 Cada alumna debe realizar y entregar lo siguiente:
 
@@ -51,7 +51,7 @@ Un **repositorio nuevo en GitHub** con los siguientes archivos:
 ## 🗓️ FECHA LÍMITE:
 
 **Lunes a las 18:00 h** Más información en el campus en la [clase 17](https://campus.educalabs.org/pluginfile.php/422721/mod_resource/content/1/FRONTEND%20Clase%2017%20-%20funciones.pptx.pdf) 
-En el campus se llama 'Segunda Pre Entrega' Se va a corregir en los próximos días. Es la 3era Mini Entrega
+En el campus se llama 'Segunda Pre Entrega' Se va a corregir en los próximos días. Es la 3era Mini Entrega (al final estaba bien el nombre! Luego se va a cambiar el nombre del archivo)
 
 ---
 
