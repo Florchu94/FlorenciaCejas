@@ -34,6 +34,16 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 
 El cronograma con fechas de clases, entregas y temas se irá actualizando semana a semana.
 
+---
+## 📅 Fechas Super IMPORTANTES
+
+- **Clase 10** : 1era pre-entrega ✅
+- **Clase 15** :ENTREGA FINAL HTML Y CSS ✅
+- **Clase 18** : 2da pre- entrega: **Estamos acá**
+- **Clase 21** : 3era pre-entrega
+- **clase 27** : 4ta pre entrega
+- **Clase 32** : Ultima clase presentación de proyectos
+
 #### 🗓️ Calendario Módulo 1: HTML y CSS (12 clases)
 
 **Inicio:** Lunes 31/03/2025  
