@@ -36,7 +36,7 @@ Un **repositorio nuevo en GitHub** con los siguientes archivos:
 
 3. Ir al siguiente Excel y **pegar el link del repositorio en la columna D**:
 
-👉 [Link al Excel](https://docs.google.com/spreadsheets/d/1RzvyICotaQtp762niy7B1t0H1rhMtkjxwRIvzY08c7I/edit?gid=0)
+👉 Link al Excel (No se aceptan más entregas)
 
 ---
 
