@@ -39,7 +39,7 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 
 - **Clase 10** : 1era pre-entrega ✅
 - **Clase 15** :ENTREGA FINAL HTML Y CSS ✅
-- **Clase 18** : 2da pre- entrega: [**Estamos acá**](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega3.md)
+- **Clase 18** : 2da pre- entrega: [**Estamos acá**](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega2.md)
 - **Clase 21** : 3era pre-entrega **Esperamos**
 - **clase 27** : 4ta pre entrega
 - **Clase 32** : Ultima clase presentación de proyectos
