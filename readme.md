@@ -39,7 +39,7 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 
 - **Clase 10** : 1era pre-entrega ✅
 - **Clase 15** :ENTREGA FINAL HTML Y CSS ✅
-- **Clase 18** : 2da pre- entrega: [**Estamos acá**](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega2.md)
+- **Clase 18** : 2da pre- entrega ✅
 - **Clase 21** : 3era pre-entrega **Esperamos**
 - **clase 27** : 4ta pre entrega
 - **Clase 32** : Ultima clase presentación de proyectos
@@ -85,7 +85,7 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 02/06/2025  | Lunes     |Clase 18  | Node y sistemas de módulos                                                               |    Pre -Entrega Java Script                                  |
 | 04/06/2025  | Miércoles |Clase 19  | Arrays, strings y métodos                                                                |                                                              |
 | 09/06/2025  | Lunes     |Clase 20  | Ciclos                                                                                   |                                                              |
-| 11/06/2025  | Miércoles |Clase 21  | Aplicación Práctica Integradora                                                          |                                                              |
+| 11/06/2025  | Miércoles |Clase 21  | Aplicación Práctica Integradora                                                          | Se habla y vamos directo a la **clase 22**                   |
 
 ## 🔗 Enlace al Campus
 
