@@ -85,7 +85,21 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 02/06/2025  | Lunes     |Clase 18  | Node y sistemas de módulos                                                               |    Pre -Entrega Java Script                                  |
 | 04/06/2025  | Miércoles |Clase 19  | Arrays, strings y métodos                                                                |                                                              |
 | 09/06/2025  | Lunes     |Clase 20  | Ciclos                                                                                   |                                                              |
-| 11/06/2025  | Miércoles |Clase 21  | Aplicación Práctica Integradora                                                          | Se habla y vamos directo a la **clase 22**                   |
+| 11/06/2025  | Miércoles |Clase 21  | Aplicación Práctica Integradora, puesta en común en la clase siguiente, miércoles 18/06/2026| [Presentamos clase 21](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md) en 20 min, luego vamos directo a la **clase 22** por 1:30|
+| 16/06/2025  | ~~Lunes~~ | -        | Feriado                                                                                   | Sin clase                                              |
+| 18/06/2025  | Miércoles |Clase 22  | Objetos literal| Las alumnas presentan soluciones de la [clase 21](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md) en 30 min, luego vamos directo a la **clase 23**    |
+| 23/06/2025  | Lunes     |Clase 23   | JSON y storage                                                                            |                                                 |
+| 25/06/2025  | Miércoles |Clase 24   | DOM I                                                                                     |                                                 |
+| 30/06/2025  | Lunes     |Clase 25   | DOM II                                                                                    |                                                 |
+| 02/07/2025  | Miércoles |Clase 26   | Eventos                                                                                   |                                                 |
+| 07/07/2025  | Lunes     |Clase 27   | Aplicacion Práctica(Pre-Entrega)                                                          |                                                 |
+| 09/07/2025  | ~~Miércoles~~ | -     | Feriado                                                                                   | Sin clase                                              |
+| 14/07/2025  | Lunes             |Clase 28   | API                                                                                       |                                                 |
+| 16/07/2025  | Miércoles         |Clase 29   | Pedidos asincrónicos                                                                      |                                                 |
+| 21/07/2025  | Lunes             |Clase 30   | Aplicacion Práctica(API I)                                                               |                                                 |
+| 23/07/2025  | Miércoles         |Clase 31   | Aplicacion Práctica(API II)                                                               |                                                |
+| 28/07/2025  | Lunes             |Clase 32   | Presentación proyectos (Entrega Final JS)                                                 |                                                 |
+
 
 ## 🔗 Enlace al Campus
 
