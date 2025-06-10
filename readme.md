@@ -76,6 +76,10 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 **Inicio:** Miércoles 15/05/2025  
 **Clases:** Lunes y miércoles 
 
+**Feriados considerados:**
+- Lunes 16/06/2025
+- Miércoles 09/07/2025
+
 | Fecha       | Día       | Clase Nº | Tema                                                                                     | Entregas / Tareas                                           |
 |-------------|-----------|----------|------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | 14/05/2025  | Miércoles |Clase 13  | Introducción:    Entorno de trabajo y lógica                                             |                                                             |
