@@ -74,3 +74,18 @@ En cada estación normal:
 
 - En la estación Olimpo (la estación número 5), como es una estación central es la única donde bajan 80
 personas y suben 120
+
+---
+
+## ✅ Ejercicio 4
+
+### 🧪 Ejercicio: FizzBuzz con `for` y `while`
+
+Definí una función `fizzBuzz(max)` que tome un número como parámetro e **imprima por consola** cada número desde el **0 hasta `max` (sin incluirlo)** que sea:
+
+- divisible por **3 o 5**,  
+- **pero no por ambos al mismo tiempo**.
+
+#### Requisitos:
+1. Hacerlo primero usando un **bucle `for`**.
+2. Luego, hacerlo con un **bucle `while`**.
