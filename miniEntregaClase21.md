@@ -1,10 +1,16 @@
 # 🧪 Práctica
 
-Esta clase tiene como objetivo poner en práctica todo lo visto en las clases anteriores,  
-a través de varios ejercicios integradores.  
+> 🧠 **PROPUESTA DE APRENDIZAJE**
+>
+> Esta clase tiene como objetivo poner en práctica todo lo visto en las clases anteriores,  
+> a través de varios ejercicios integradores. La idea es que puedan elegir entre **hacer un Pull Request (PR)**  
+> al repositorio o **explicar tu solución en clase**.
+>
+> Como parte de nuestra forma de aprender colaborativamente, vamos a hacer una pequeña **votación**.  
+> Hay tiempo hasta el **martes 17/06/2025 a las 18h** para decidir cual vas a elegir.  
+>
+> ¡Lo importante es participar, practicar y aprender juntas!
 
-Recomendamos que puedas tomarte el tiempo necesario para pensar qué pide cada consigna,  
-y la forma en que podés resolverla con lo que sabés.
 
 ---
 
