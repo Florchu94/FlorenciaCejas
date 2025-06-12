@@ -12,6 +12,12 @@
 > ¡Lo importante es participar, practicar y aprender juntas!
 
 
+> [!Important]
+> 🚨Si elegiste **PR** antes del martes 17/06/2025 18h lo tenes que hacer🚨
+> 
+> 👉 Martes 17/06/2025 18pm 👈 
+
+
 ---
 
 ## ✅ Ejercicio 1
