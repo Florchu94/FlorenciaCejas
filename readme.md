@@ -43,6 +43,8 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 - **Clase 21** : 3era pre-entrega **Esperamos**
 - **Clase 22** : **Presentación de las alumnas**
   > 🚨 **IMPORTANTE** [Ejercicios para realizar](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md)
+  > 
+  > 🚨Si elegiste **PR** antes del martes 17/06/2025 18h lo tenes que hacer🚨
 - **Clase 27** : 4ta pre entrega
 - **Clase 32** : Ultima clase presentación de proyectos
 
