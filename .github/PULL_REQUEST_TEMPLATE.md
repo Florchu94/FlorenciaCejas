@@ -21,3 +21,6 @@
 
 #### 💬 Comentarios adicionales (opcional):
 _Es posible contar alguna dificultad que tuviste, cómo lo resolviste o algo que quieras compartir._
+
+>📁 Formato de entrega sugerido:
+Cada ejercicio debe ir en un archivo separado dentro de la carpeta con tu nombre (por ejemplo: script1.js, script2.js, etc.).
