@@ -17,7 +17,7 @@ Luego, dentro del bucle, agregue una condicion if que verifica si el numero actu
 Si se cumple esta condicion, console.log(i) muestra ese numero por consola.
 */
 
-function FizzBuzzWhile(max) {
+function fizzBuzzWhile(max) {
   let i = 0;
 
   while (i < max) {
